@@ -1,4 +1,4 @@
-# Tokamak Diffusion Simulation (B.Sc. Thesis)
+# Tokamak Diffusion Simulation (Bachelor's Thesis)
 Inside the Tokamak, plasma dynamics are primarily governed by collective motions and non-diffusive behaviors. Within this context, this thesis aims to study, through numerical  
 simulation, plasma behavior under a specific confinement regime known as L-mode (low confinement). This regime marks the point where plasma deviates from classical diffusive
 behavior and is instead governed by the typical dynamics of self-organized systems. To this end, the problem was generalized and described through the definition of a 1
