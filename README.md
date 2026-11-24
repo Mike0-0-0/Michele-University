@@ -1,6 +1,6 @@
 # Michele-University
 University Works
-# Michele's University Portfolio
+
 
 A collection of scientific programming projects and academic works developed during my Physics studies at Tor Vergata University.
 
