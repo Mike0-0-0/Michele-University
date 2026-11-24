@@ -3,7 +3,7 @@ Inside the Tokamak, plasma dynamics are primarily governed by collective motions
 simulation, plasma behavior under a specific confinement regime known as L-mode (low confinement). This regime marks the point where plasma deviates from classical diffusive
 behavior and is instead governed by the typical dynamics of self-organized systems. To this end, the problem was generalized and described through the definition of a 1
 dimensional cellular automaton, which reproduces the salient features of the  self-organized systems. 
-# Tokamak Diffusion Simulation (B.Sc. Thesis)
+
 
 This project models plasma confinement and diffusion processes in a Tokamak device using a 1-dimensional cellular automaton (L-mode regime simulation), structured across three sequential stages.
 
